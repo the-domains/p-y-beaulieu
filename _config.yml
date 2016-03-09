@@ -1,0 +1,28 @@
+name: P-Y Beaulieu
+favicon: null
+layout_spectrum: 0.22094866959378123
+typography_spectrum: 0.4922466615680605
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6402698014862835
+  lightness: 0.5860961822327226
+  saturation: 0.8027005232870579
+  rhythmicContrast: 0.6921734951902181
+purpose: []
